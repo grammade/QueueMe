@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QueueMe</string>
+    <string name="login_enter_your_name">Enter Your Name</string>
+    <string name="mainmenu_enter_queue">Enter Queue</string>
+    <string name="mainmenu_create_queue">Create Queue</string>
+    <string name="login_loginBtn">Login</string>
+    <string name="login_dont_have_account">Dont have account yet?</string>
+    <string name="login_register_here">Register Here</string>
+    <string name="login_password">Password</string>
+    <string name="login_username">Username</string>
+    <string name="register_re_type_password">Re-Type Password</string>
+    <string name="register_have_an_account">Have an account?</string>
+    <string name="register_login_here">Login Here</string>
+    <string name="register_register">Register</string>
+    <string name="login_invalid_username_or_password">Invalid Username or Password!</string>
+    <string name="login_remember_me">Remember Me</string>
+    <string name="option_addadmin">Add</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="full_name">Full Name</string>
+    <string name="logged_in">You have logged in from another device</string>
+</resources>

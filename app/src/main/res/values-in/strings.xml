@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_loginBtn">Masuk</string>
+    <string name="login_register_here">Daftar disini</string>
+    <string name="mainmenu_create_queue">Buat Antrian</string>
+    <string name="mainmenu_enter_queue">Masuk Antrian</string>
+    <string name="login_dont_have_account">Blum punya akun?</string>
+    <string name="register_have_an_account">Punya akun?</string>
+    <string name="register_login_here">Login Disini</string>
+    <string name="login_password">Password</string>
+    <string name="login_username">Userename</string>
+    <string name="register_re_type_password">Re-Type Password</string>
+    <string name="register_register">Daftar</string>
+    <string name="login_invalid_username_or_password">Username atau Password tidak valid!</string>
+    <string name="login_remember_me">Tetap Login</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="logged_in">Anda telah login dari perangkat lain</string>
+    <string name="option_addadmin">Tambahkan</string>
+</resources>

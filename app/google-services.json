@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "509207264505",
+    "firebase_url": "https://queue-1750d.firebaseio.com",
+    "project_id": "queue-1750d",
+    "storage_bucket": "queue-1750d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509207264505:android:f27917c929a01827163628",
+        "android_client_info": {
+          "package_name": "id.ac.polman.astra.prg6.queue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509207264505-0chbom5dvbogs5j3i470pvd3gl1vc94q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.ac.polman.astra.prg6.queue",
+            "certificate_hash": "5d30cfb3bc3466c504417df4a6c25cbd48299d1e"
+          }
+        },
+        {
+          "client_id": "509207264505-h0222idj8fqqu9i4af5ctn6lo41t9q7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWXYR1tMuaZVNhkqOZAkuyikL8vGuuXoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509207264505-h0222idj8fqqu9i4af5ctn6lo41t9q7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
